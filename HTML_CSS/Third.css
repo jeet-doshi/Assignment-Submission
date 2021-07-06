@@ -1,0 +1,39 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.first_class
+{
+    width: 100%;
+    background-color: gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.child_class
+{
+    height: 150px;
+    width: 15%;
+    background-color: red;
+}
+
+.second_class
+{
+    width: 100%;
+    background-color: black; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.child_class2
+{
+    height: 150px;
+    width: 20%;
+    background-color: gray; 
+    display: inline-block;
+    margin-left: 4%
+}
